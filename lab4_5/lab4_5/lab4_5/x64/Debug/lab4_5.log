@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(176,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(204,36): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(205,36): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(206,36): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(236,70): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(242,70): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(247,70): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(255,19): warning C4244: 'initializing': conversion from 'glm::vec<3,float,glm::packed_highp>::length_type' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(256,42): warning C4244: 'argument': conversion from 'int' to 'genType', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(257,40): warning C4244: 'argument': conversion from 'int' to 'genType', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(266,62): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(321,26): warning C4244: '=': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(325,26): warning C4244: '=': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(330,26): warning C4244: '=': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(334,26): warning C4244: '=': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(389,39): warning C4244: '+=': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(396,39): warning C4244: '-=': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(440,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(441,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(445,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(446,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(448,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(449,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\lab4_5\main.cpp(456,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  lab4_5.vcxproj -> C:\Users\1\Documents\_учёба_архив\компьютерная графика\_labs\OpenGL\lab4_5\lab4_5\x64\Debug\lab4_5.exe
